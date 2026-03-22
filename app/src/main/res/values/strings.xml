@@ -5,4 +5,11 @@
     <string name="title_activity_grids">Grids</string>
     <string name="title_activity_spinner">spinner</string>
     <string name="title_activity_2">Activity2</string>
+    <string name="title_activity_splash_screen">Splash_Screen</string>
+    <string name="title_activity_progressbar">Progressbar</string>
+    <string name="title_activity_ratingbar">Ratingbar</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_3">Activity3</string>
+    <string name="title_activity_progressbar_class">Progressbar_Class</string>
+    <string name="title_activity_practice">Practice</string>
 </resources>
