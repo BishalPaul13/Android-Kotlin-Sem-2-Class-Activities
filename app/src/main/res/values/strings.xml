@@ -12,4 +12,9 @@
     <string name="title_activity_3">Activity3</string>
     <string name="title_activity_progressbar_class">Progressbar_Class</string>
     <string name="title_activity_practice">Practice</string>
+    <string name="title_activity_4">Activity4</string>
+    <string name="title_activity_activity4_screen2">Activity4Screen2</string>
+    <string name="title_activity_activity4_screen3">Activity4Screen3</string>
+    <string name="title_activity_activity4_screen4">Activity4Screen4</string>
+    <string name="title_activity_activity4_screen5">Activity4Screen5</string>
 </resources>
